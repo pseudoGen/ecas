@@ -149,3 +149,16 @@
 .round:hover span:nth-child(4) {
     transform: rotate(-225deg);
 }
+
+
+
+
+
+@media only screen and (max-width: 767px) {
+
+
+#cuboid {
+  
+width: 100%;
+}
+}
